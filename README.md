@@ -1,4 +1,4 @@
-rn# Rails Dynamic Request
+# Rails Dynamic Request
 
 ## Review
 
